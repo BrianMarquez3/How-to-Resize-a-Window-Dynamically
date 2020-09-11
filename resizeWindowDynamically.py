@@ -6,7 +6,7 @@ import time
 
 root = Tk()
 root.title('How to Resize a Window Dynamically')
-root.iconbitmap('How to Resize a Window Dynamically/pineapple.ico')
+root.iconbitmap('Icons/pineapple.ico')
 root.geometry("800x800") 
 
 def resize():
